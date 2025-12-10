@@ -247,3 +247,6 @@ button[onclick="adicionar('0')"] {
         font-size: 1.3rem;
     }
 }
+
+p { font-size: 10rem; 
+}
